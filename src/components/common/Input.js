@@ -33,7 +33,8 @@ const styles = {
   },
   labelStyle: {
     fontSize: 18,
-    flex: 1
+    flex: 1,
+    marginLeft: 20
   }
 };
 //avail
